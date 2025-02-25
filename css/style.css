@@ -2,3 +2,27 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: rgb(4, 12, 101);
+}
+
+h1 {
+  background-color: rgb(7, 8, 75);
+  color: rgb(246, 234, 4);
+  text-align: center;
+  padding: 50px;
+  font-family: Zurich Blk BT;
+  font-size: 24px;
+}
+
+p {
+  font-family: Segoe UI;
+  font-size: 24px;
+
+}
+
+p2 {
+  text-align: center;
+  padding: 100px;
+}
